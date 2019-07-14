@@ -14,6 +14,6 @@ After first execution, every Random button click will fetch another random beer 
 Below, the steps to run Randombeer-front application:
 
 1-Execute the randombeer backend application provided in "ajaramago/randombeers" repository.
-1-Ensure you have Node.js and NPM installed.
-2-Go into Node.js commad prompt and browse the "randombeer-app" folder.
+2-Ensure you have Node.js and NPM installed.
+3-Go into Node.js commad prompt and browse the "randombeer-app" folder.
 4-Execute "npm start".
